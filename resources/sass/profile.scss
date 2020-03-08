@@ -16,7 +16,8 @@
 
 .individual-section {
   display:flex;
-  flex-wrap:wrap;
+  flex-wrap:wrap;8-9
+
 
   margin-bottom:.5em;
   &:nth-child(4n+1){.progress-bar{background-color: $blue;}}
